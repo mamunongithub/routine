@@ -1,2 +1,3 @@
-# routine
-College routine
+# Routine
+
+https://mamunongithub.github.io/routine
